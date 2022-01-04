@@ -1,7 +1,8 @@
-### Hi there 👋
+ 
+<img align ="right" src="https://komarev.com/ghpvc/?username=basemax&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
+<h1 align="center">Hi there 👋, Welcome to my Gitub :)</h1>
 
-
-It's Mahdi Razzaghi and I'm an Android developer.
+#### It's Mahdi Razzaghi and I'm an Android developer.
 
 [![-----------------------------------------------------]( 
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/razaghimahdi?tab=repositories)
