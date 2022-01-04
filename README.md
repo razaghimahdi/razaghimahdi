@@ -1,6 +1,6 @@
  
 
-<h1 align="center">Hi there 👋, Welcome to my Gitub :)</h1>
+<h1 align="center">Hi there 👋, Welcome to my Github :)</h1>
 
 #### It's Mahdi Razzaghi and I'm an Android developer.
 
