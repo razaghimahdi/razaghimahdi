@@ -11,9 +11,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Mireseh](https://mireseh.ir/).
 - 🌱 I’m currently using **Kotlin** , **Kotlin Jetpack Compose** , **Flutter** and **Java**.
-- 🎁 Also check out my last app in Bazar and Myket: https://cafebazaar.ir/app/com.razzaghi.myuninote , https://myket.ir/app/com.razzaghi.myuninote
+- 🎁 Also check out my last app in Bazar and Myket: https://cafebazaar.ir/app/com.razzaghi.home_management , https://myket.ir/app/com.razzaghi.home_management 
 - 📫 How to reach me: `razaghimahdi78 [ @ ] gmail {. DOT . } com`
-- #### 🎁🎁🎁🎁 Something new is coming👀👀👀👀
 
 [![-----------------------------------------------------]( 
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/razaghimahdi?tab=repositories)
