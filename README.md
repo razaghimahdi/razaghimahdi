@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, Welcome to my Github :)</h1>
 
-#### It's Mahdi Razzaghi and I'm an Android developer.
+#### It's Mahdi Razzaghi Ghaleh and I'm an Android developer.
 
 [![-----------------------------------------------------]( 
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/razaghimahdi?tab=repositories)
