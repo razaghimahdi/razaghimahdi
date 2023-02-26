@@ -4,6 +4,8 @@
 
 #### It's Mahdi Razzaghi Ghaleh and I'm an Android developer.
 
+![](https://komarev.com/ghpvc/?username=razaghimahdi&style=for-the-badge)
+
 [![-----------------------------------------------------]( 
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/razaghimahdi?tab=repositories)
 
