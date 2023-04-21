@@ -3,6 +3,7 @@
 <h1 align="center">Hi there 👋, Welcome to my Github :)</h1>
 
 #### It's Mahdi Razzaghi Ghaleh and I'm an Android developer.
+6+ years of experience in Android development, proficient in Kotlin and Java and committed to continuous learning and staying up-to-date with emerging technologies and best practices like Jetpack Compose and KMM. Strong focus on delivering high-quality results through smart work and prioritizing clean architecture and design patterns.
 
 [![-----------------------------------------------------]( 
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/razaghimahdi?tab=repositories)
@@ -14,6 +15,7 @@ Here are some ideas to get you started:
 - 🎁 Also check out some of my available applications: 
     - Home Management: [Cafe Bazaar](https://cafebazaar.ir/app/com.razzaghi.home_management), [MyKet](https://myket.ir/app/com.razzaghi.home_management)
     - My Class: [Cafe Bazaar](https://cafebazaar.ir/app/com.razzaghi.myuninote), [MyKet](https://myket.ir/app/com.razzaghi.myuninote)
+- ⚡️ I'm looking for an Android job with visa sponcership.
 - 📫 How to reach me: `razaghimahdi78 [ @ ] gmail {. DOT . } com`
 
 [![-----------------------------------------------------]( 
