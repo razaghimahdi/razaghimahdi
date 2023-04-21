@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 🎁 Also check out some of my available applications: 
     - Home Management: [Cafe Bazaar](https://cafebazaar.ir/app/com.razzaghi.home_management), [MyKet](https://myket.ir/app/com.razzaghi.home_management)
     - My Class: [Cafe Bazaar](https://cafebazaar.ir/app/com.razzaghi.myuninote), [MyKet](https://myket.ir/app/com.razzaghi.myuninote)
-- ⚡️ I'm looking for an Android job with visa sponcership.
 - 📫 How to reach me: `razaghimahdi78 [ @ ] gmail {. DOT . } com`
 
 [![-----------------------------------------------------]( 
