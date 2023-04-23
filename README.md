@@ -41,13 +41,6 @@ Developed native applications to directly access the device's hardware, such as 
 - **"My Class" (February 2020):** An application with over +5000 downloads in cafe bazaar to manage classes with a user-friendly interface. It captures and stores documents, and in the last version, it was migrated from MVVM to MVI in Kotlin and Single-Activity Architecture by Jetpack navigation to have better clean architecture and testability using Unit Test
 - **"Terminology in Java" (August 2020):** A book-like application used to define important functions and keywords in Java language, by Java base MVVM Architecture and Reactive by RxJava
 
-## Contact
-
-- (+98) 9369091663
-- razaghimahdi78@gmail.com
-- linkedin.com/in/mahdi-razzaghi-ghaleh
-- github.com/razaghimahdi
-
 ## Skills
 
 - Clean Architecture
