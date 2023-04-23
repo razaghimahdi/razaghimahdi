@@ -1,9 +1,6 @@
- 
+<h1 align="center">Hi there 👋, welcome to my GitHub profile!</h1>
 
-<h1 align="center">Hi there 👋, Welcome to my Github :)</h1>
-
-#### It's Mahdi Razzaghi Ghaleh and I'm an Android developer.
-6+ years of experience in Android development, proficient in Kotlin and Java and committed to continuous learning and staying up-to-date with emerging technologies and best practices like Jetpack Compose and KMM. Strong focus on delivering high-quality results through smart work and prioritizing clean architecture and design patterns.
+My name is Mahdi Razzaghi Ghaleh, and I'm an experienced Android developer with over 6 years of experience. I'm proficient in both Kotlin and Java, and I'm committed to staying up-to-date with emerging technologies and best practices, such as Jetpack Compose and KMM. I'm passionate about delivering high-quality results through smart work and prioritizing clean architecture and design patterns.
 
 [![-----------------------------------------------------]( 
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/razaghimahdi?tab=repositories)
@@ -20,7 +17,6 @@ Here are some ideas to get you started:
 [![-----------------------------------------------------]( 
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/razaghimahdi?tab=repositories)
 
-
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -29,7 +25,5 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 [![-----------------------------------------------------]( 
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/razaghimahdi?tab=repositories)
-
-
 
 <img src="https://github-profile-trophy.vercel.app/?username=razaghimahdi&column=8&margin-w=15&margin-h=15" alt="razaghimahdi">
