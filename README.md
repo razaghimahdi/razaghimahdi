@@ -29,9 +29,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img src="https://github-profile-trophy.vercel.app/?username=razaghimahdi&column=8&margin-w=15&margin-h=15" alt="razaghimahdi">
 
 
-<!--
-With over 6 years of experience in Android development, I am proficient in Kotlin and Java and committed to continuous learning and staying up-to-date with emerging technologies and best practices like Jetpack Compose and KMM. I prioritize clean architecture and design patterns to deliver high-quality results through smart work.
--->
+<!-- 
 
 ## Work Experience
 
@@ -87,4 +85,4 @@ Asrez focuses on providing creative solutions to solve problems with software in
 - Web3 
 - Firebase 
 - Android-OpenCV
-
+-->
