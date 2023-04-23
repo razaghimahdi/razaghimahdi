@@ -35,12 +35,6 @@ Developed native applications to directly access the device's hardware, such as 
   - Conducted migrations from MVP to MVVM, Retrofit to Ktor, Room to SqlDelight, dagger2 to dagger hilt, SharedPreferences to DataStore, and one of the most extensive migrations was migrating to jetpack-compose
   - Developed native multi-Platform applications in both IOS and Android by KMM
 
-## Projects
-
-- **"Home Management" (May 2022):** An application to manage home purchases and notify other users in their group by notifications. Professionally designed UI and UX by Jetpack Compose base MVI Architecture with Design Patterns and UseCases to have better testability by Unit Test and UI Test
-- **"My Class" (February 2020):** An application with over +5000 downloads in cafe bazaar to manage classes with a user-friendly interface. It captures and stores documents, and in the last version, it was migrated from MVVM to MVI in Kotlin and Single-Activity Architecture by Jetpack navigation to have better clean architecture and testability using Unit Test
-- **"Terminology in Java" (August 2020):** A book-like application used to define important functions and keywords in Java language, by Java base MVVM Architecture and Reactive by RxJava
-
 ## Skills
 
 - Clean Architecture
@@ -52,7 +46,23 @@ Developed native applications to directly access the device's hardware, such as 
 - MVP Architecture
 - Single-Activity Architecture
 - Unit Test
-- UI
+- UI Test 
+- Jetpack-Compose 
+- KMM 
+- KMP
+- Kotlin Coroutines and Flow 
+- CI/CD 
+- GitHub Action 
+- Agile 
+- REST API 
+- gRPC API 
+- GraphQl
+- Socket.io 
+- SQL 
+- Web3 
+- Firebase 
+- Android-OpenCV
+EDUCATION
 
 [![-----------------------------------------------------]( 
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/razaghimahdi?tab=repositories)
