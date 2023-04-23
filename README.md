@@ -8,32 +8,32 @@ With over 6 years of experience in Android development, I am proficient in Kotli
 
 ## Work Experience
 
-- PlanetMemes | Android Developer [Jun 2022 – Current]
+### PlanetMemes | Android Developer [Jun 2022 – Current]
 
 Planet Memes is an ecosystem built to reward and give utility to chosen DAO meme coin holders.
 
-    - Reached 99.5% crash free-users by continuously monitoring and inspecting issues with Crashlytics
-    - Redesigned UI/UX of "Arab wallet" to have an effective user interface and user experience
-    - Refactored business logic to reduce maintainability cost
-    - Developed applications to store, send and receive cryptocurrencies and digital assets safely and securely using web3 to integrate with Ethereum-clients and Binance-chain-client-SDK to integrate with Binance Chain
-    - Utilized wallet-connect to connect desktop DApps to mobile wallets using end-to-end encryption
+  - Reached 99.5% crash free-users by continuously monitoring and inspecting issues with Crashlytics
+  - Redesigned UI/UX of "Arab wallet" to have an effective user interface and user experience
+  - Refactored business logic to reduce maintainability cost
+  - Developed applications to store, send and receive cryptocurrencies and digital assets safely and securely using web3 to integrate with Ethereum-clients and Binance-chain-client-SDK to integrate with Binance Chain
+  - Utilized wallet-connect to connect desktop DApps to mobile wallets using end-to-end encryption
 
-- Asrez | Android Developer [May 2020 – Jun 2022]
+### Asrez | Android Developer [May 2020 – Jun 2022]
 
 Asrez focuses on providing creative solutions to solve problems with software infrastructure.
 
-    - Migrated a few applications from Java to Kotlin to keep projects cleaner, more readable, faster, and better performance
-    - Redesigned and developed projects based on MVVM and MVI architecture with Design Patterns to keep them clean and SOLID and significantly better testability by Unit Test and UI Test
-    - Developed applications for Android-OS POS machines in bakeries to manage and monitor all customer purchases
-    - Conducted code reviewing and pair programming to teach and learn new technologies alongside techniques that grow my skill sets and find the best solutions to several challenges
+  - Migrated a few applications from Java to Kotlin to keep projects cleaner, more readable, faster, and better performance
+  - Redesigned and developed projects based on MVVM and MVI architecture with Design Patterns to keep them clean and SOLID and significantly better testability by Unit Test and UI Test
+  - Developed applications for Android-OS POS machines in bakeries to manage and monitor all customer purchases
+  - Conducted code reviewing and pair programming to teach and learn new technologies alongside techniques that grow my skill sets and find the best solutions to several challenges
 
-- Freelancer | Android Developer [Feb 2015 – Jun 2022]
+### Freelancer | Android Developer [Feb 2015 – Jun 2022]
 
 Developed native applications to directly access the device's hardware, such as the GPS, camera, microphone, and Bluetooth
 
-    - Developed applications for image processing and detecting objects in Android using OpenCV
-    - Conducted migrations from MVP to MVVM, Retrofit to Ktor, Room to SqlDelight, dagger2 to dagger hilt, SharedPreferences to DataStore, and one of the most extensive migrations was migrating to jetpack-compose
-    - Developed native multi-Platform applications in both IOS and Android by KMM
+  - Developed applications for image processing and detecting objects in Android using OpenCV
+  - Conducted migrations from MVP to MVVM, Retrofit to Ktor, Room to SqlDelight, dagger2 to dagger hilt, SharedPreferences to DataStore, and one of the most extensive migrations was migrating to jetpack-compose
+  - Developed native multi-Platform applications in both IOS and Android by KMM
 
 ## Projects
 
