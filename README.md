@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [MemesWallet](https://www.planetmemes.com).
 - 🌱 I’m currently using **Kotlin** , **Kotlin Jetpack Compose** , **KMM** , **Flutter** and **Java**.
 - 🎁 Also check out some of my available applications: 
-    - Home Management: [Cafe Bazaar](https://cafebazaar.ir/app/com.razzaghi.home_management), [MyKet](https://myket.ir/app/com.razzaghi.home_management)
+    - Home Management (Jetpack Compose): [Cafe Bazaar](https://cafebazaar.ir/app/com.razzaghi.home_management), [MyKet](https://myket.ir/app/com.razzaghi.home_management)
     - My Class: [Cafe Bazaar](https://cafebazaar.ir/app/com.razzaghi.myuninote), [MyKet](https://myket.ir/app/com.razzaghi.myuninote)
 - 📫 How to reach me: `razaghimahdi78 [ @ ] gmail {. DOT . } com`
 
