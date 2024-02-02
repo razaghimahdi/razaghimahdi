@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋, welcome to my GitHub profile!</h1>
 
+<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+
+
 <a href="https://stackoverflow.com/users/7593474/mahdi-razzaghi"><img src="https://stackoverflow.com/users/flair/7593474.png?theme=dark" width="208" height="58" alt="profile for Mahdi Razzaghi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mahdi Razzaghi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 My name is Mahdi Razzaghi Ghaleh, and I'm an experienced Android developer with over 6 years of experience. I'm proficient in both Kotlin and Java, and I'm committed to staying up-to-date with emerging technologies and best practices, such as Jetpack Compose and KMM. I'm passionate about delivering high-quality results through smart work and prioritizing clean architecture and design patterns.
