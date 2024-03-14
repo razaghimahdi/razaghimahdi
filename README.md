@@ -1,7 +1,10 @@
 <h1 align="center">Hi there 👋, welcome to my GitHub profile!</h1>
 
 
-My name is Mahdi Razzaghi Ghaleh, and I'm an experienced Android developer with over 6 years of experience. I'm proficient in both Kotlin and Java, and I'm committed to staying up-to-date with emerging technologies and best practices, such as Jetpack Compose and KMM. I'm passionate about delivering high-quality results through smart work and prioritizing clean architecture and design patterns.
+My name is Mahdi Razzaghi Ghaleh, and With 6+ years in Android development and 2+ years in Jetpack Compose, I excel in Kotlin and Java, prioritizing clean
+architecture and design patterns. Committed to continuous learning, I stay updated with emerging tech like Jetpack
+Compose and KMP. Additionally, I contribute to open-source projects, solving problems and offering better solutions for
+the community. My focus remains on delivering high-quality results through smart work practices.
 
 [![-----------------------------------------------------]( 
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/razaghimahdi?tab=repositories)
