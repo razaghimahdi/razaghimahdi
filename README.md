@@ -11,7 +11,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 Here are some ideas to get you started:
 
+- 💻 These days I'm working on [Hamrah Bank Tejarat](https://cafebazaar.ir/app/ir.tejaratbank.tata.mobile.android.tejarat)
 - 🌱 I’m currently using **Kotlin** , **Jetpack Compose** , **KMP** and **Java**.
+- ✨ My [CMP](https://github.com/razaghimahdi/Shopping-By-KMP) sample availble on [Jetbrains](https://www.jetbrains.com/help/kotlin-multiplatform-dev/multiplatform-samples.html)
 - 🎁 Also check out some of my available applications: 
     - Home Management (Jetpack Compose): [Cafe Bazaar](https://cafebazaar.ir/app/com.razzaghi.home_management), [MyKet](https://myket.ir/app/com.razzaghi.home_management)
     - My Class: [Cafe Bazaar](https://cafebazaar.ir/app/com.razzaghi.myuninote), [MyKet](https://myket.ir/app/com.razzaghi.myuninote)
